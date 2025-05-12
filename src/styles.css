@@ -1,0 +1,90 @@
+body {
+    background: linear-gradient(to right, #0f0f0f, #1a1a2e);
+    color: #00ffe1;
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #111;
+    padding: 1rem;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin: 0;
+    text-shadow: 0 0 10px #00ffe1;
+}
+
+nav a {
+    color: #00ffe1;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+#hero {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid #00ffe1;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px #00ffe1;
+    max-width: 800px;
+    margin: auto;
+    margin-bottom: 2rem;
+}
+
+#calculator {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid #00ffe1;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 10px #00ffe1;
+    max-width: 300px;
+    margin: auto;
+}
+
+#calculator-display {
+    background-color: #222;
+    color: white;
+    text-align: right;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
+
+#calculator-buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.5rem;
+    padding: 0.5rem;
+}
+
+#calculator-buttons button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+#calculator-buttons button:hover {
+    background-color: #444;
+}
+
+#tools {
+    margin-top: 2rem;
+}
+
+footer {
+    background-color: #111;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.8rem;
+}
