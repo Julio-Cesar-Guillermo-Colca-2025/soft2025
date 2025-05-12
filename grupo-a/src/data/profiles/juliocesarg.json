@@ -1,0 +1,68 @@
+{
+  "id": "juliocesarg",
+  "auth": {
+    "username": "juliocesarg",
+    "passwordHash": "2360515c83ce8d1bc08ea67069a55232bd6fac5d672a5b7c8d55be09f51e06dd",
+    "lastLogin": "2024-04-25T12:00:00.000Z"
+  },
+  "basics": {
+      "name": "Julio César",
+      "last_name": "Guillermo Colca",
+      "occupation": "Jefe de Soporte Técnico y Redes",
+      "image": {
+          "remote": "https://internetenperu2025.wordpress.com/wp-content/uploads/2025/03/pasaporte-02.jpg"
+      },
+      "email": "41925797@continetal.edu.pe",
+      "phone": "944979705",
+      "url": "https://julio-cesar-guillermo-colca-2025.github.io/mi-portafolio2025/",
+      "summary": "Profesional con experiencia liderando equipos técnicos, brindando soporte IT y gestionando infraestructuras de red seguras y eficientes.",
+      "location": {
+          "city": "Cerro de Pasco",
+          "countryCode": "PE",
+          "region": "Pasco"
+      },
+      "profiles": [
+          {
+              "network": "GitHub",
+              "username": "Julio-Cesar-Guillermo-Colca-2025",
+              "url": "https://github.com/Julio-Cesar-Guillermo-Colca-2025"
+          },
+          {
+              "network": "LinkedIn",
+              "username": "Julio Cesar Guillermo Colca",
+              "url": "https://www.linkedin.com/in/julio-cesar-guillermo-colca-b9b24874/"
+          }
+      ]
+  },
+  "skills": [
+      {
+          "name": "Redes y Telecomunicaciones",
+          "keywords": ["TCP/IP", "Routing", "Switching", "Cisco Packet Tracer", "Subnetting", "Firewall"],
+          "type": "hard"
+      },
+      {
+          "name": "Soporte Técnico",
+          "keywords": ["Mantenimiento de hardware", "Diagnóstico de fallas", "Atención al usuario"],
+          "type": "hard"
+      }
+  ],
+  "education": [
+      {
+          "institution": "Universidad Continental",
+          "area": "Ingeniería de Sistemas e Informática",
+          "studyType": "Estudiante",
+          "startDate": "2022-03-01",
+          "endDate": "2026-12-15"
+      }
+  ],
+  "projects": [
+      {
+          "name": "Gestión de Infraestructura de Red",
+          "description": "Simulación de red empresarial con dispositivos Cisco",
+          "highlights": ["Configuración de switches", "Topología con VLANs"],
+          "url": "https://github.com/Julio-Cesar-Guillermo-Colca-2025",
+          "featured": true,
+          "technologies": ["Cisco Packet Tracer", "CLI"]
+      }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pepepino",
+  "auth": {
+    "username": "pepepino",
+    "passwordHash": "2360515c83ce8d1bc08ea67069a55232bd6fac5d672a5b7c8d55be09f51e06dd",
+    "lastLogin": "2024-04-25T12:00:00.000Z"
+  },
+    "basics": {
+      "name": "Pepe",
+      "last_name":"Pino Huamani",
+      "occupation": "Desarrollador de Software",
+      "image": {
+        "remote": "https://avatars.githubusercontent.com/u/205255268?s=400&u=4c987b057c9868c8733f3b7b37bd48547a2f994e&v=4"
+      },
+      "email": "70520575@continetal.edu.pe",
+      "phone": "(51) 987-456-321",
+      "url": "https://pepepinoh.github.io/",
+      "summary": "Especialista en interfaces de usuario y experiencia de usuario con enfoque en accesibilidad y rendimiento.",
+      "location": {
+        "city": "Cusco",
+        "countryCode": "PE",
+        "region": "Sicuani"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "Pepepinoh",
+          "url": "https://github.com/Pepepinoh"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "pepepinohuamani",
+          "url": "https://www.linkedin.com/in/pepe-pino-huamani-799140315/"
+        }
+      ]
+    },
+    "skills": [
+  {
+    "name": "Frontend",
+    "keywords": ["React", "Vue", "TypeScript", "CSS"],
+    "type": "hard"
+  },
+  {
+    "name": "Diseño UX",
+    "keywords": ["Figma", "Adobe XD", "Wireframing"],
+    "type": "hard"
+  },
+  {
+    "name": "Trabajo en equipo",
+    "keywords": ["Colaboración", "Resolución de conflictos", "Empatía"],
+    "type": "soft"
+  }
+],
+    "education": [
+      {
+        "institution": "Instituto Continental",
+        "area": "Ingeniería Artificial con Inteligencia Artificial",
+        "studyType": "Licenciatura",
+        "startDate": "2015-03-01",
+        "endDate": "2020-07-15"
+      }
+    ],
+    "projects": [
+  {
+    "name": "Sistema de Componentes",
+    "description": "Biblioteca de componentes accesibles y reutilizables para aplicaciones web",
+    "highlights": ["Cumplimiento WCAG 2.1 AA", "Documentación automática con Storybook"],
+    "url": "https://github.com/juliocesar/components",
+    "featured": false,
+    "technologies": ["React", "TypeScript", "Storybook", "Jest"]
+  },
+  {
+    "name": "Dashboard Analítico",
+    "description": "Panel de control para visualización de datos empresariales en tiempo real",
+    "highlights": ["Regulando para dispositivos móviles", "Representación interactiva avanzada"],
+    "url": "https://github.com/juliocesar/dashboard",
+    "featured": true,
+    "technologies": ["Vue.js", "D3.js", "Firebase", "Tailwind CSS"]
+  }
+]
+  }

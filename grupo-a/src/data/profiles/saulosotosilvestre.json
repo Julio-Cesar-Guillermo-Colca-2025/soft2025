@@ -1,0 +1,72 @@
+{
+  "id": "saulosotosilvestre",
+  "auth": {
+    "username": "saulosotosilvestre",
+    "passwordHash": "2360515c83ce8d1bc08ea67069a55232bd6fac5d672a5b7c8d55be09f51e06dd",
+    "lastLogin": "2024-04-25T12:00:00.000Z"
+  },
+  "basics": {
+    "name": "Saulo Jerson",
+    "last_name": "Soto Silvestre",
+    "occupation": "Desarrollador Backend",
+    "image": {
+      "remote": "https://github.com/Saulo-pj.png"
+      },
+      "email": "71840465@continental.edu.pe",
+      "phone": "(51) 923-976-503",
+      "url": "https://saulo-pj.github.io/",
+      "summary": "Desarrollador de Software, Web y Videojuegos",
+      "location": {
+        "city": "Lima",
+        "countryCode": "PE",
+        "region": "Lima"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "Saulo-pj",
+          "url": "https://github.com/Saulo-pj"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "SAULO JERSON SOTO SILVESTRE",
+          "url": "www.linkedin.com/in/saulo-jerson-soto-silvestre-09b107283"
+        }
+      ]
+    },
+    "skills": [
+        {
+            "name": "DevOps",
+            "keywords": ["CI/CD", "Docker", "Kubernetes", "AWS"],
+            "type": "hard"
+        },
+        {
+            "name": "Backend",
+            "keywords": ["Node.js", "Python", "Go"],
+            "type": "hard"
+        },
+        {
+            "name": "Liderazgo",
+            "keywords": ["Gestión de equipos", "Mentoría", "Comunicación efectiva"],
+            "type": "soft"
+        }
+        ],
+    "education": [
+      {
+        "institution": "Universidad Continental",
+        "area": "Ingeniería de Sistemas e informatica",
+        "studyType": "Ingenieria",
+        "startDate": "2022-03-13",
+        "endDate": ""
+      }
+    ],
+    "projects": [
+      {
+        "name": "Ocean.io",
+        "description": "Videojuego 2D creado a los 15 años que demuestra mis habilidades en programación, diseño gráfico, animación y producción de sonido.",
+        "highlights": ["Proyecto completo de forma autodidacta antes de iniciar estudios universitarios"],
+        "featured": true,
+        "technologies": ["Godot" , "GDScript" ,"Photoshop" ,"LMMS"]
+      }
+    ]
+  }
