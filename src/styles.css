@@ -88,3 +88,12 @@ footer {
     padding: 1rem;
     font-size: 0.8rem;
 }
+
+#profile, #about-me, #projects, #links, #contact {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid #00ffe1;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 10px #00ffe1;
+    margin-bottom: 1rem;
+}
