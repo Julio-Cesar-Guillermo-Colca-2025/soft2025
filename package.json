@@ -1,0 +1,23 @@
+{
+  "name": "soft2025",
+  "version": "1.0.0",
+  "description": "Este proyecto forma parte de la evaluación final del curso de Construcción del Software. Presenta una página web desplegada con GitHub Pages, que muestra una calculadora y elementos básicos de programación web.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julio-Cesar-Guillermo-Colca-2025/soft2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julio-Cesar-Guillermo-Colca-2025/soft2025/issues"
+  },
+  "homepage": "https://github.com/Julio-Cesar-Guillermo-Colca-2025/soft2025#readme",
+  "devDependencies": {
+    "vitest": "^3.1.3"
+  }
+}
