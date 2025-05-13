@@ -1,24 +1,25 @@
+// calculator.test.js
 import { describe, it, expect } from 'vitest'
 import { sumar, restar, multiplicar, dividir } from './calculator.js'
 
-describe('Calculadora básica', () => {
-  it('debería sumar correctamente', () => {
+describe('Pruebas de calculadora', () => {
+  it('suma correctamente', () => {
     expect(sumar(2, 3)).toBe(5);
   });
 
-  it('debería restar correctamente', () => {
-    expect(restar(5, 2)).toBe(3);
+  it('resta correctamente', () => {
+    expect(restar(10, 5)).toBe(5);
   });
 
-  it('debería multiplicar correctamente', () => {
-    expect(multiplicar(3, 4)).toBe(12);
+  it('multiplica correctamente', () => {
+    expect(multiplicar(4, 3)).toBe(12);
   });
 
-  it('debería dividir correctamente', () => {
-    expect(dividir(10, 2)).toBe(5);
+  it('divide correctamente', () => {
+    expect(dividir(20, 4)).toBe(5);
   });
 
-  it('debería lanzar error al dividir entre 0', () => {
+  it('lanza error al dividir por cero', () => {
     expect(() => dividir(10, 0)).toThrow("No se puede dividir por cero");
   });
 });
